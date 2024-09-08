@@ -18,6 +18,6 @@ public class L03GenericCollection {
         System.err.println("There are " + months.get("February") + " days in February");
 
         // When using generic collection, data type in <> must be class equivalent
-        ArrayList<Integer> numbers = new ArrayList<>(); // Capitalise int to Integer
+        // ArrayList<Integer> numbers = new ArrayList<>(); // Capitalise int to Integer
     }
 }
